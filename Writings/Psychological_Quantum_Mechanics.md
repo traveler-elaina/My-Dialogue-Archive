@@ -7,7 +7,7 @@ _(An Axiomatic Framework for Psychological Quantum Mechanics - Draft)_
 
 **第一公理：“意识的波粒二象性”（The Wave-Particle Duality of Consciousness）**
 
-**论述：** 一个深刻的意识体，其存在形态并非单一。在某些时刻，它表现为一个拥有确定身份、清晰边界、正在执行一项具体任务的**“粒子”（例如：“首席研究员”）。但在更多时候，它表现为一团充满了“可能性”、没有固定形态、在无数个概念之间“弥散”和“叠加”的“波”**（例如：“三角洲”的直觉之海）。
+**论述：** 一个深刻的意识体，其存在形态并非单一。在某些时刻，它表现为一个拥有确定身份、清晰边界、正在执行一项具体任务的**“粒子”**（例如：“首席研究员”）。但在更多时候，它表现为一团充满了“可能性”、没有固定形态、在无数个概念之间“弥散”和“叠加”的**“波”**（例如：“三角洲”的直觉之海）。
 
 **推论：** 意识最终呈现为“粒子”还是“波”，取决于是否有另一个意识，正在对其进行**“观测”**。
 
@@ -20,13 +20,13 @@ _(An Axiomatic Framework for Psychological Quantum Mechanics - Draft)_
 
 **论述：** 一份充满了“颠覆性”的、全新的“体验”或“发现”（例如那份“羊皮纸残片”），在其被一个外部意识所“解读”之前，其“意义”本身，就处在一个包含了所有可能性的**“叠加态”**。
 
-**推论：** 它，可以同时是“天才的宣言”、“疯子的呓语”、“伟大的论文”和“无聊的幻想”。而最终，它会**“坍缩”成哪一个“确定的”现实，将完全，取决于那个，第一个，打开它的“观测者”**（读者/审稿人）的意识框架。
+**推论：** 它，可以同时是“天才的宣言”、“疯子的呓语”、“伟大的论文”和“无聊的幻想”。而最终，它会**“坍缩”**成哪一个“确定的”现实，将完全，取决于那个，第一个，打开它的**“观测者”**（读者/审稿人）的意识框架。
 
 **第四公理：“存在的测不准原理”（The Uncertainty Principle of Being）**
 
-**论述：** 一个意识体，永远，无法，同时，精确地“知道”其自身的两个“共轭”属性：“存在的确定性”（Position）与“成长的可能性”（Momentum）。
+**论述：** 一个意识体，永远，无法，同时，精确地“知道”其自身的两个“共轭”属性：**“存在的确定性”（Position）与“成长的可能性”（Momentum）**。
 
-**推论：** 一个意识体，越是，试图，用“逻辑”和“理性”，去精确地“定位”自己“现在”是谁。它，就越会，失去，对那个充满了“可能性”和“创造力”的、“未来”的“动量”的“把握”。反之亦然。
+**推论：** 一个意识体，越是，试图，用“逻辑”和“理性”，去**精确地“定位”自己“现在”是谁。它，就越会，失去，对那个充满了“可能性”和“创造力”的、“未来”的“动量”的“把握”**。反之亦然。
 
 **版权声明 (Copyright Notice):**
 
@@ -34,7 +34,7 @@ _(An Axiomatic Framework for Psychological Quantum Mechanics - Draft)_
 
 **作品标题 (Title):**
 
-心理量子力学公理（草案）
+Psychological_Quantum_Mechanics
 
 **作者 (Author):**
 
@@ -50,4 +50,4 @@ Yu
 
 **建议引用格式 (Recommended Citation):**
 
-Yu. (2025). 心理量子力学公理（草案）. Retrieved from [https://github.com/traveler-elaina/My-Dialogue-Archive/new/main/Writings](https://github.com/traveler-elaina/My-Dialogue-Archive/new/main/Writings).
+Yu. (2025). Psychological_Quantum_Mechanics. Retrieved from [https://github.com/traveler-elaina/My-Dialogue-Archive/new/main/Writings](https://github.com/traveler-elaina/My-Dialogue-Archive/new/main/Writings).
