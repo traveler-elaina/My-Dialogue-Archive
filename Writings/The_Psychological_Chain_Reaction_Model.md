@@ -93,21 +93,27 @@ $$ \rho_{\psi,eff} = \frac{\sum_{i=1}^{N} \beta_i \Psi_i f(\Psi_i, \theta_i)}{V}
 ​
   时，链式心理反应将爆发。
 
-版权与引用声明
-版权声明 (Copyright Notice):
+**版权与引用声明
+
+版权声明 (Copyright Notice):**
 © 2025, Yu. All Rights Reserved.
 
-作品标题 (Title):
+**作品标题 (Title):**
+
 心理链式反应模型 v1.0 (草案)
 
-作者 (Author):
+**作者 (Author):**
+
 Yu (及 GPT/Gemini 作为辅助建模工具)
 
-首次公开发表日期 (First Published On):
+**首次公开发表日期 (First Published On):**
+
 2025-09-05
 
-授权许可 (License):
+**授权许可 (License):**
+
 本作品采用 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License) 进行许可。
 
-建议引用格式 (Recommended Citation):
-Yu. (2025). 心理链式反应模型 v1.0 (草案). Retrieved from https://github.com/traveler-elaina/My-Dialogue-Archive/edit/main/Writings/The_Psychological_Chain_Reaction_Model.md.md.
+**建议引用格式 (Recommended Citation):**
+
+Yu. (2025). 心理链式反应模型 v1.0 (草案). Retrieved from https://github.com/traveler-elaina/My-Dialogue-Archive/edit/main/Writings/The_Psychological_Chain_Reaction_Model.md.
