@@ -152,9 +152,10 @@ traveler_elaina
 
 2025-09-06
 
-**授权许可 (License):**
+**授权许可 (License):** 
 
-本作品采用 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License) 进行许可。
+本作品采用 [知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License)](http://creativecommons.org/licenses/by-nc-nd/4.0/) 进行许可。
 
-**建议引用格式 (Recommended Citation):**
-Yu. (2025). 心理量子力学 · 第五公理（哥本哈根诠释的“Yu修正案”）. Retrieved
+**建议引用格式 (Recommended Citation):** 
+
+Yu. (2025). 心理量子力学 · 第五公理（哥本哈根诠释的“Yu修正案”）. Retrieved from [https://github.com/traveler-elaina/My-Dialogue-Archive/edit/main/Writings/Psychological%20Quantum%20Mechanics%20%C2%B7%20The%20Fifth%20Axiom.md](https://github.com/traveler-elaina/My-Dialogue-Archive/edit/main/Writings/Psychological%20Quantum%20Mechanics%20%C2%B7%20The%20Fifth%20Axiom.md).
