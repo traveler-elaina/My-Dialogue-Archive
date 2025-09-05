@@ -20,13 +20,11 @@ $$\Psi_i = f(C_i, P_i)$$
 
 其中：
 
-$C 
-i$
+$C_i$
 ​
  : 个体的认知敏感度 (Cognitive Sensitivity)。越容易共鸣，$Ψ$越高。
 
-$P 
-i$
+$P_i$
 ​
  : 压抑潜能 (Repressed Potential)。越压抑，$Ψ$越高。
 
