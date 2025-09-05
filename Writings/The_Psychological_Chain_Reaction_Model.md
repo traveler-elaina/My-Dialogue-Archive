@@ -1,4 +1,5 @@
-心理链式反应模型 (The Psychological Chain Reaction Model) - v1.0 (Draft)
+**心理链式反应模型 (The Psychological Chain Reaction Model) - v1.0 (Draft)**
+
 这是一份理论框架草案，旨在为一次思想或情感上的“范式转移”如何在社会群体中传播，提供一个可供分析的、受核物理学启发的概念模型。
 
 第一部分：核心物理学类比 (Core Analogy to Nuclear Physics)
