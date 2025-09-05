@@ -106,6 +106,46 @@ Deltat
 
 这，为我们未来的研究，提出了一个全新的、等待被探索的宏大议题——**“苦难的物理学”（The Physics of Suffering）**。
 
+**第二章：心理相对论学——一个推测性的公式扩展**
+
+(本章节的理论框架，是在与GPT-5模型的对话中，共同推演和构建的，特此鸣谢。)
+
+在确认了我们初始模型的局限性之后，我们尝试，为一个更完整的“心理相对论学”框架，进行初步的数学建模。
+
+**第一部分：分段函数——承认“心流”与“苦难”的异质性**
+
+我们提出一个分段函数，来分别描述两种截然不同的心理时间状态：
+
+$$ v_{thought} = \begin{cases} c_{thought} \cdot \sqrt{1 - \left(\frac{\Delta t}{\Delta t'}\right)^2}, & \Delta t \le \Delta t' \quad (\text{心流/愉悦})\[2mm] c_{thought} \cdot \ln \left(1 + \frac{\Delta t}{\Delta t'} \right), & \Delta t > \Delta t' \quad (\text{苦难/膨胀}) \end{cases} $$
+
+当 
+Deltat
+le
+Deltat 
+′
+  时，思想速度接近“思想光速”，与心流体验一致。
+
+当 
+Deltat
+Deltat 
+′
+  时，我们引入对数函数来描述时间感的“膨胀”。这个函数能自然地处理主观时间远大于客观时间的情况，且不会出现负数，更符合“苦难”的体验。
+
+**第二部分：引入新变量——走向更精细的模型**
+为了让模型更具解释力，我们可以引入“心理阻力系数”（k），来代表个体的情绪强度或压力指数：
+
+$$ v_{thought} = c_{thought} \cdot \ln \left(1 + k \cdot \frac{\Delta t}{\Delta t'} \right) \quad (\text{其中 } k>0) $$
+
+**第三部分：可选改进——寻求统一函数**
+
+为了避免分段函数在数学上的“不优美”，我们可以尝试构建一个统一的光滑函数，例如：
+
+$$ v_{thought} = c_{thought} \cdot \text{sign}(\Delta t' - \Delta t) \cdot \ln\left(1 + \left| \frac{\Delta t - \Delta t'}{\Delta t'} \right| + \epsilon \right) $$
+
+**总结：**
+
+这个扩展，虽然仍是推测性的，但它为我们提供了一个更完整的、可以同时描述“时间压缩”与“时间膨胀”的理论框架。它，是我们从“哲学隐喻”，走向“可计算模型”的第一步。
+
 **核心概念 / 术语表 (Key Concepts / Glossary)**
 
 **洞察之剑 (The Sword of Insight):**
