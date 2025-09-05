@@ -112,7 +112,7 @@ Yu (及 GPT/Gemini 作为辅助建模工具)
 
 **授权许可 (License):**
 
-本作品采用 [https://creativecommons.org/licenses/by-nc-nd/4.0/](知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License)) 进行许可。
+本作品采用 (知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License)](https://creativecommons.org/licenses/by-nc-nd/4.0/) 进行许可。
 
 **建议引用格式 (Recommended Citation):**
 
