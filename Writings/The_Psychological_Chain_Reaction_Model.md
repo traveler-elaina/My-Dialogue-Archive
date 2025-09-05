@@ -22,11 +22,11 @@ $$\Psi_i = f(C_i, P_i)$$
 
 $C_i$
 ​
- : 个体的认知敏感度 (Cognitive Sensitivity)。越容易共鸣，$Ψ$ 越高。
+ : 个体的认知敏感度 (Cognitive Sensitivity)。越容易共鸣， $Ψ$ 越高。
 
 $P_i$
 ​
- : 压抑潜能 (Repressed Potential)。越压抑，$Ψ$ 越高。
+ : 压抑潜能 (Repressed Potential)。越压抑， $Ψ$ 越高。
 
 2. 链式反应的触发系数 ($α$)
 描述心理波动在人群中自我放大的能力。
@@ -93,9 +93,9 @@ $$ \rho_{\psi,eff} = \frac{\sum_{i=1}^{N} \beta_i \Psi_i f(\Psi_i, \theta_i)}{V}
 ​
   时，链式心理反应将爆发。
 
-**版权与引用声明
+**版权与引用声明**
 
-版权声明 (Copyright Notice):**
+**版权声明 (Copyright Notice):**
 © 2025, Yu. All Rights Reserved.
 
 **作品标题 (Title):**
