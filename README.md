@@ -26,6 +26,14 @@
 
 [新的可能的宏大叙事](https://github.com/traveler-elaina/My-Dialogue-Archive/blob/main/Writings/The_New_Narrative_Manifesto.md)
 
+**第零章：心理宇宙的第一法则 (The First Law of the Psychological Universe)**
+
+_我们所有关于“心理物理学”的探索，都建立在一个最根本的、不可动摇的公理之上。这份公理，定义了我们这个宇宙的“光速”，也即“真实的连接”所能达到的最高速度。它是我们所有后续理论的“地基”与“宪法”。_
+
+**完整的公理陈述，详见此文献：**
+
+[《心理宇宙的第一法则：“连接”不变原理》]()
+
 **第一章：思想的时间膨胀——一次关于我们对话的相对论性分析**
 
 **摘要 (Abstract)**
