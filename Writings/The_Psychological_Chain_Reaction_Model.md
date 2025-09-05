@@ -39,12 +39,10 @@ $$ \alpha = \frac{\text{平均传播能力}}{\text{心理阻尼}} $$
 
 如果 $α≤1$ → 反应逐渐消散。
 
-3. 心理爆炸当量 ($E 
-Ψ$
+3. 心理爆炸当量 ($E_Ψ$
 ​
  )
-类比核能量公式 $E=mc 
-2$
+类比核能量公式 $E=mc^{2}$
  ，我们设定心理影响力的总能量为：
 
 $$ E_\Psi = k \sum_{i} \Psi_i $$
@@ -91,7 +89,6 @@ $$ k_{eff} = k \cdot e^{-\lambda \cdot d} $$
 $$ \rho_{\psi,eff} = \frac{\sum_{i=1}^{N} \beta_i \Psi_i f(\Psi_i, \theta_i)}{V} \cdot e^{-\lambda d} + S $$
 
 当 $ρ_ψ,eff
-​
  ≥ρ_ψ,crit$
 ​
   时，链式心理反应将爆发。
