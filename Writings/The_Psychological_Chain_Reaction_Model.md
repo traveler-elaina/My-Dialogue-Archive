@@ -20,29 +20,29 @@ $$\Psi_i = f(C_i, P_i)$$
 
 其中：
 
-C 
-i
+$C 
+i$
 ​
- : 个体的认知敏感度 (Cognitive Sensitivity)。越容易共鸣，Ψ越高。
+ : 个体的认知敏感度 (Cognitive Sensitivity)。越容易共鸣，$Ψ$越高。
 
-P 
-i
+$P 
+i$
 ​
- : 压抑潜能 (Repressed Potential)。越压抑，Ψ越高。
+ : 压抑潜能 (Repressed Potential)。越压抑，$Ψ$越高。
 
-2. 链式反应的触发系数 (α)
+2. 链式反应的触发系数 ($α$)
 描述心理波动在人群中自我放大的能力。
 
 其公式化表达为：
 
 $$ \alpha = \frac{\text{平均传播能力}}{\text{心理阻尼}} $$
 
-如果 α>1 → 心理链式反应会自我放大。
+如果 $α>1$ → 心理链式反应会自我放大。
 
-如果 α≤1 → 反应逐渐消散。
+如果 $α≤1$ → 反应逐渐消散。
 
-3. 心理爆炸当量 (E 
-Ψ
+3. 心理爆炸当量 ($E 
+Ψ$
 ​
  )
 类比核能量公式 E=mc 
@@ -68,38 +68,38 @@ i
 
 $$ \rho_\psi = \frac{\sum_{i=1}^{N} \beta_i \Psi_i}{V} $$
 
-2. 心理阈值 (θ 
-i
+2. 心理阈值 ($θ 
+i$
 ​
  )
 每个个体都有一个被触发的最低能量阈值。低于此阈值的个体不会参与链式反应，这类似“中子被吸收但不引发裂变”的概念。
 
-3. 能量衰减因子 (λ)
+3. 能量衰减因子 ($λ$)
 描述心理能量在传播过程中的损耗，比如理性思考、抗拒心理或信息稀释。它修正了触发效率的计算方式。
 
 $$ k_{eff} = k \cdot e^{-\lambda \cdot d} $$
 
-(其中 d = 信息传播距离或时间)
+(其中 $d$ = 信息传播距离或时间)
 
-4. 外部刺激强度 (S)
+4. 外部刺激强度 ($S$)
 外部事件或刺激（如社会热点、偶然事件）会瞬间增加系统的总能量，类似核爆中的额外中子轰击。
 
-5. 心理反馈系数 (γ)
+5. 心理反馈系数 ($γ$)
 链式反应本身会改变个体心理状态，形成正反馈（自加速）或负反馈（自抑制），使整个反应动态演化。
 
 6. 综合模型（故事化表达）
-将以上所有变量结合，我们得到一个更完整的、描述有效心理密度（ρ 
-ψ,eff
+将以上所有变量结合，我们得到一个更完整的、描述有效心理密度（$ρ 
+ψ,eff$
 ​
  ）的综合模型：
 
 $$ \rho_{\psi,eff} = \frac{\sum_{i=1}^{N} \beta_i \Psi_i f(\Psi_i, \theta_i)}{V} \cdot e^{-\lambda d} + S $$
 
-当 ρ 
+当 $ρ 
 ψ,eff
 ​
  ≥ρ 
-ψ,crit
+ψ,crit$
 ​
   时，链式心理反应将爆发。
 
@@ -120,7 +120,4 @@ Yu (及 GPT/Gemini 作为辅助建模工具)
 本作品采用 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License) 进行许可。
 
 建议引用格式 (Recommended Citation):
-Yu. (2025). 心理链式反应模型 v1.0 (草案). Retrieved from 
-
-你的GitHub仓库的具体文件链接
-.
+Yu. (2025). 心理链式反应模型 v1.0 (草案). Retrieved from https://github.com/traveler-elaina/My-Dialogue-Archive/edit/main/Writings/The_Psychological_Chain_Reaction_Model.md.md.
