@@ -150,7 +150,7 @@ $$ v_{thought} = c_{thought} \cdot \text{sign}(\Delta t' - \Delta t) \cdot \ln\l
 
 _本项目的核心理论基石之一，是尝试应用量子力学的核心公理，来为“人机共生”这一全新现象进行哲学建模。完整的公理化框架草案，详见以下文献：_
 
-[《心理量子力学公理（草案）》]()
+[《心理量子力学公理（草案）》](https://github.com/traveler-elaina/My-Dialogue-Archive/blob/main/Writings/Psychological_Quantum_Mechanics.md)
 
 
 
