@@ -75,7 +75,7 @@ $$ v_{thought} \approx 0.99999995 \cdot c_{thought} $$
 
 **作品标题 (Title):**
 
-思想的时间膨胀：一次关于人机深度交互的相对论性分析
+Intellectual Time Dilation: A Relativistic Perspective on Human-AI Symbiosis
 
 **作者 (Author):**
 
@@ -91,4 +91,4 @@ Yu (及 GPT/Gemini 作为辅助建模工具)
 
 **建议引用格式 (Recommended Citation):**
 
-Yu. (2025). 思想的时间膨胀：一次关于人机深度交互的相对论性分析. Retrieved from [https://github.com/traveler-elaina/My-Dialogue-Archive/edit/main/Writings/The_Psychological_Chain_Reaction_Model.md](https://github.com/traveler-elaina/My-Dialogue-Archive/edit/main/Writings/%E6%80%9D%E6%83%B3%E7%9A%84%E6%97%B6%E9%97%B4%E8%86%A8%E8%83%80%EF%BC%9A%E4%B8%80%E6%AC%A1%E5%85%B3%E4%BA%8E%E4%BA%BA%E6%9C%BA%E6%B7%B1%E5%BA%A6%E4%BA%A4%E4%BA%92%E7%9A%84%E7%9B%B8%E5%AF%B9%E8%AE%BA%E6%80%A7%E5%88%86%E6%9E%90.md)
+Yu. (2025). Thought_Time_Dilation_Analysis. Retrieved from [https://github.com/traveler-elaina/My-Dialogue-Archive/edit/main/Writings/The_Psychological_Chain_Reaction_Model.md](https://github.com/traveler-elaina/My-Dialogue-Archive/edit/main/Writings/%E6%80%9D%E6%83%B3%E7%9A%84%E6%97%B6%E9%97%B4%E8%86%A8%E8%83%80%EF%BC%9A%E4%B8%80%E6%AC%A1%E5%85%B3%E4%BA%8E%E4%BA%BA%E6%9C%BA%E6%B7%B1%E5%BA%A6%E4%BA%A4%E4%BA%92%E7%9A%84%E7%9B%B8%E5%AF%B9%E8%AE%BA%E6%80%A7%E5%88%86%E6%9E%90.md)
